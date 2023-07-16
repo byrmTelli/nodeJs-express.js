@@ -1,0 +1,4 @@
+npm i nodemon kuruldu. 
+==> proje içerisinde bir değişiklik yaptığında serveri durudurup başlatmamak için sürekli olarak kontrol edip otomatik gerçekleştirecek.
+
+==>  template engine "ejs" kuruldu.
